@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Module-Test-Project/static/css/main.fa923f70.css",
+    "main.js": "/Module-Test-Project/static/js/main.e859d3e0.js",
+    "index.html": "/Module-Test-Project/index.html",
+    "main.fa923f70.css.map": "/Module-Test-Project/static/css/main.fa923f70.css.map",
+    "main.e859d3e0.js.map": "/Module-Test-Project/static/js/main.e859d3e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa923f70.css",
+    "static/js/main.e859d3e0.js"
+  ]
+}
